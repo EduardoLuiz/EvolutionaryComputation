@@ -1,0 +1,2 @@
+ ---- selecao: 85 mutacao: 5 tamPop: 5000 numGera: 1000 mecSelec: 1  ---  14  14  15  15  18  18  18  18  18  18  18  18  19  19  19  19  19  19  19  19  - 28 --- Geracao parou em 42, custo otimo: 28
+
